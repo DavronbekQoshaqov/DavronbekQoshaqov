@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavronbekQoshaqov
+- 👋 Hi, I’m @davron_031
 - 👀 I’m interested in programmer
 - 🌱 I’m currently learning Lenguage inglish 
 - 💞️ I’m looking to collaborate on programmer
